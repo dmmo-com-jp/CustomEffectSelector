@@ -1,0 +1,2 @@
+# CustomEffectSelector
+VideoEffectSelectorの子映像エフェクトの呼び出しに使う各プロパティを数式で制御するプラグイン
