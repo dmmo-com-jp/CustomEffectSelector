@@ -48,4 +48,6 @@ YMM4の変数等が多いです。
 ##### Value0~Value9
 引数にアクセスするための変数です。
 ##### EffectDescription系
-Frame、Length、Layerはすべて小文字、
+Frame、Length、Layerはすべて小文字、InputIndex,InputCount,GroupIndex,GroupCountはそのままです。
+
+あとfpsっていう現在のfpsを返す変数もあります。
