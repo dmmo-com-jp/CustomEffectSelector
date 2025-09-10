@@ -51,3 +51,11 @@ YMM4の変数等が多いです。
 Frame、Length、Layerはすべて小文字、InputIndex,InputCount,GroupIndex,GroupCountはそのままです。
 
 あとfpsっていう現在のfpsを返す変数もあります。
+##### DrawDescription系
+座標系はX,Y,Z
+
+ZoomX,ZoomYはそのまま
+
+回転系はRotationX,RotationY,RotationZ
+
+あとOpacityっていう不透明度返すやつがあります。
