@@ -1,9 +1,8 @@
 # CustomEffectSelector
 VideoEffectSelectorの子映像エフェクトの呼び出しに使う各プロパティを数式で制御するプラグイン
-
+<img width="575" alt="CustomSelectorサムネイル" src="https://github.com/user-attachments/assets/a24db31e-737d-4e24-abe8-69b597d9c8aa">
 ## 使い方
 インストールすると、ymmの映像エフェクトのカテゴリー「アニメーション」の中に、「カスタムエフェクトセレクター」が追加される
-![CustomSelectorサムネイル](https://github.com/user-attachments/assets/a24db31e-737d-4e24-abe8-69b597d9c8aa)
 
 ### カスタムエフェクトセレクター
 中核的なエフェクト。テンプレートでプラグイン見たいなエフェクトを配布するのに役立ったらなー適な感じで作ってるのでパラメータめっちゃあります。
